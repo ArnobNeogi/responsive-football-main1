@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+/* copa-cup-features */
+.pic{
+   
+    background-repeat: no-repeat;
+   width: 1600px;
+   height: 1100px;
+   top: -3868px;
+   left: -934px;
+   
+     
+   background-color:rgb(66, 16, 206);
+
+    
+
+
+}
+.pic img{
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+height: 438px;
+width: 556px;
+left: 1299px;
+top: auto;
+
+border-radius: 0px;
+
+
+
+}
+.pic h1{
+
+
+    position: absolute;
+    width: 450px;
+    height: 325px;
+    left: 156px;
+    top: 220px;
+   
+}
+.pic button{
+
+    position: absolute;
+    width: 168px;
+    height: 44px;
+    left: 177px;
+    top: 563px;
+    background: #E02C6D;
+}
